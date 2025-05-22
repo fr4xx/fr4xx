@@ -15,12 +15,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fr4xx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fr4xx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fr4xx&radius=12&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=my%20contribution%20graph" height="300" alt="activity-graph graph"  />
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xxfraxx15xx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=xxfraxx15xx&redirect=true)
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
