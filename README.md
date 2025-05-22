@@ -1,6 +1,6 @@
-![TerminalGIF](/terminal.gif)
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/fr4xx/fr4xx/refs/heads/main/fr4xx.jpg"  />
+  <img height="200" src="/fr4xx.jpg"  />
+  <img height="200" src="/terminal.gif"  />
 </div>
 
 ###
