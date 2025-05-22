@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fr4xx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fr4xx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xxfraxx15xx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=xxfraxx15xx&redirect=true)
+  <p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=xxfraxx15xx&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xxfraxx15xx&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
 </div>
 
 ###
